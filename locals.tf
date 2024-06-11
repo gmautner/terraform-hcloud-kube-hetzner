@@ -497,7 +497,7 @@ hubble:
 %{endfor~}
 %{endif~}
 
-MTU: 1450
+MTU: 1200
   EOT
 
   # Not to be confused with the other helm values, this is used for the calico.yaml kustomize patch
